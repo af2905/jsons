@@ -2,7 +2,7 @@
 	"response": [{
 			"f_name": "иВан",
 			"l_name": "ИваноВ",
-			"birthday": "1987-03-23",
+			"birthday": "1987-03-21",
 			"avatr_url": "http://img2.russia.ru/upimg/author/451/image.jpg",
 			"specialty": [{
 				"specialty_id": 101,
