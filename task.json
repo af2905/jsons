@@ -12,7 +12,7 @@
 		{
 			"f_name": "Nelson",
 			"l_name": "Rosario",
-			"birthday": null,
+			"birthday": "1982-01-05",
 			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/30/entrepreneur-593372_960_720.jpg",
 			"specialty": [{
 				"specialty_id": 101,
@@ -40,14 +40,9 @@
 			"birthday": "1992-01-16",
 			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/09/11/11/office-594130_960_720.jpg",
 			"specialty": [{
-					"specialty_id": 101,
-					"name": "Java developer"
-				},
-				{
-					"specialty_id": 102,
-					"name": "Android developer"
-				}
-			]
+				"specialty_id": 102,
+				"name": "Android developer"
+			}]
 		},
 		{
 			"f_name": "Clifford",
@@ -71,6 +66,81 @@
 				{
 					"specialty_id": 102,
 					"name": "Android developer"
+				}
+			]
+		},
+		{
+			"f_name": "Chester",
+			"l_name": "Copeland",
+			"birthday": "1990-05-13",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg",
+			"specialty": [{
+				"specialty_id": 103,
+				"name": "C++ developer"
+			}]
+		},
+		{
+			"f_name": "Winston",
+			"l_name": "Patterson",
+			"birthday": "1974-09-07",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/30/entrepreneur-593372_960_720.jpg",
+			"specialty": [{
+					"specialty_id": 101,
+					"name": "Java developer"
+				},
+				{
+					"specialty_id": 103,
+					"name": "C++ developer"
+				}
+			]
+		},
+		{
+			"f_name": "Richard",
+			"l_name": "Boyer",
+			"birthday": "1989-10-16",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593352_960_720.jpg",
+			"specialty": [{
+					"specialty_id": 103,
+					"name": "C++ developer"
+				},
+				{
+					"specialty_id": 102,
+					"name": "Android developer"
+				}
+			]
+		},
+		{
+			"f_name": "Peter",
+			"l_name": "Pettler",
+			"birthday": "1986-02-14",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/09/11/11/office-594130_960_720.jpg",
+			"specialty": [{
+				"specialty_id": 102,
+				"name": "Android developer"
+			}]
+		},
+		{
+			"f_name": "Rudolph",
+			"l_name": "Bletcher",
+			"birthday": "1979-03-08",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593326_960_720.jpg",
+			"specialty": [{
+				"specialty_id": 102,
+				"name": "Android developer"
+			}]
+		},
+		{
+			"f_name": "Ethan",
+			"l_name": "Delgado",
+			"birthday": "1995-02-28",
+			"avatr_url": "https://cdn.pixabay.com/photo/2015/01/08/18/25/freelancer-593325_960_720.jpg",
+			"specialty": [{
+					"specialty_id": 101,
+					"name": "Java developer"
+				},
+				{
+					"specialty_id": 103,
+					"name": "C++ developer"
 				}
 			]
 		}
